@@ -1,1 +1,3 @@
 # git_test1
+My (not) first github repo :P
+Hello odin ...
